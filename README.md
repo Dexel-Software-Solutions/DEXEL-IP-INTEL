@@ -53,8 +53,8 @@ This tool is ideal for:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dexel-ip-intel.git
-cd dexel-ip-intel
+git clone https://github.com/Dexel-Software-Solutions/DEXEL-IP-INTEL.git
+cd ip-intel
 ```
 
 ### 2️⃣ Install Dependencies
@@ -70,7 +70,7 @@ pip install requests python-whois colorama pyfiglet
 Run the tool:
 
 ```bash
-python dexel_ip_intel.py
+python ip-intel.py
 ```
 
 Menu Options:
